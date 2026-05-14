@@ -1,0 +1,501 @@
+date,time,ip_address,country,method,request,page_label,status_code,bytes_sent,referer,user_agent
+2025-09-06,07:53:23,196.50.140.125,Botswana,GET,/products.html,Products,301,11907,https://facebook.com,curl/7.88.1
+2025-01-13,08:14:09,196.50.111.119,Botswana,GET,/images/events.jpg,Event Image,301,26574,https://facebook.com,curl/7.88.1
+2025-03-27,14:39:19,197.248.142.3,Kenya,GET,/jobs.php,Jobs Placed,304,0,https://bing.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-03-02,09:10:26,41.10.172.52,South Africa,GET,/index.html,Homepage,304,0,https://bing.com,Googlebot/2.1
+2025-04-13,17:30:47,157.20.235.63,India,POST,/blog.html,Blog,200,72869,https://bing.com,Googlebot/2.1
+2025-12-10,21:00:30,91.198.98.35,Germany,GET,/index.html,Homepage,200,10970,https://google.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-05-28,15:01:59,41.10.186.83,South Africa,GET,/scheduledemo.php,Schedule Demo,200,92500,-,Googlebot/2.1
+2025-09-04,14:25:35,196.50.125.83,Botswana,GET,/events.php,Events,301,29297,https://bing.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-03-30,22:52:57,157.20.161.205,India,GET,/products.html,Products,500,94610,https://bing.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-09-12,13:07:52,197.248.234.73,Kenya,GET,/products.html,Products,301,71156,https://bing.com,Googlebot/2.1
+2025-06-16,09:17:33,203.12.204.185,Australia,GET,/products.html,Products,301,65198,-,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-12-01,10:03:39,196.50.81.216,Botswana,POST,/prototype.php,Prototype,304,0,https://facebook.com,curl/7.88.1
+2025-07-25,11:42:11,41.10.5.58,South Africa,POST,/ai-assistant.php,AI Virtual Assistant,200,101253,https://bing.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-04-24,23:37:10,197.248.232.1,Kenya,GET,/about.html,About,301,100383,https://google.com,Googlebot/2.1
+2025-12-21,10:18:28,196.50.152.101,Botswana,GET,/index.html,Homepage,301,70026,-,Googlebot/2.1
+2025-05-06,21:21:12,197.248.57.185,Kenya,GET,/contact.php,Contact,200,8104,https://google.com,Googlebot/2.1
+2025-01-31,14:04:08,196.50.248.35,Botswana,POST,/blog.html,Blog,200,17340,https://linkedin.com,Googlebot/2.1
+2025-03-06,03:05:41,41.10.216.108,South Africa,GET,/pricing.php,Pricing,200,52808,https://bing.com,curl/7.88.1
+2025-12-16,09:00:39,197.248.61.126,Kenya,GET,/products.html,Products,200,77622,https://facebook.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-08-17,12:39:33,41.10.36.30,South Africa,GET,/products.html,Products,304,0,-,Googlebot/2.1
+2025-04-03,10:21:50,41.10.248.109,South Africa,POST,/images/events.jpg,Event Image,500,62465,https://google.com,curl/7.88.1
+2025-11-10,14:25:03,41.189.48.49,Zimbabwe,GET,/ai-assistant.php,AI Virtual Assistant,304,0,https://linkedin.com,curl/7.88.1
+2025-12-02,11:32:31,155.55.50.31,United Kingdom,GET,/scheduledemo.php,Schedule Demo,200,33103,https://google.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-07-28,06:32:43,197.248.216.93,Kenya,GET,/products.html,Products,200,58594,https://facebook.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-01-20,15:31:02,128.1.7.47,United States,GET,/pricing.php,Pricing,200,53781,https://linkedin.com,curl/7.88.1
+2025-03-25,00:16:09,91.198.30.84,Germany,POST,/scheduledemo.php,Schedule Demo,200,60150,https://bing.com,curl/7.88.1
+2025-09-28,12:42:12,24.48.249.79,Canada,GET,/index.html,Homepage,200,76426,https://facebook.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-10-18,11:38:15,41.10.25.244,South Africa,POST,/images/events.jpg,Event Image,200,7967,https://facebook.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-11-27,15:05:15,41.10.34.120,South Africa,POST,/scheduledemo.php,Schedule Demo,200,76392,https://facebook.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-08-29,13:03:14,196.50.161.133,Botswana,GET,/products.html,Products,200,35326,https://linkedin.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-09-18,20:36:23,128.1.234.161,United States,GET,/pricing.php,Pricing,200,60580,https://facebook.com,Googlebot/2.1
+2025-02-08,19:53:34,196.50.109.135,Botswana,GET,/index.html,Homepage,200,32530,https://bing.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-03-03,06:18:25,197.248.154.4,Kenya,POST,/ai-assistant.php,AI Virtual Assistant,200,87463,-,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-04-13,17:00:03,196.50.54.79,Botswana,POST,/products.html,Products,200,94570,https://bing.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-09-24,23:56:15,128.1.135.250,United States,GET,/products.html,Products,200,83648,https://linkedin.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-01-18,02:55:06,196.50.66.134,Botswana,POST,/index.html,Homepage,301,93005,https://linkedin.com,Googlebot/2.1
+2025-01-04,18:07:41,196.50.76.18,Botswana,POST,/contact.php,Contact,301,19922,https://linkedin.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-01-17,05:52:23,41.10.20.183,South Africa,GET,/products.html,Products,200,46869,https://facebook.com,curl/7.88.1
+2025-08-30,00:59:04,155.55.121.83,United Kingdom,GET,/blog.html,Blog,304,0,-,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-10-14,01:16:42,203.12.210.127,Australia,GET,/products.html,Products,304,0,-,curl/7.88.1
+2025-03-28,09:13:57,41.10.235.179,South Africa,GET,/products.html,Products,200,3613,https://google.com,curl/7.88.1
+2025-05-08,11:37:23,41.10.35.142,South Africa,POST,/scheduledemo.php,Schedule Demo,304,0,https://facebook.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-01-11,17:15:20,196.50.133.91,Botswana,GET,/prototype.php,Prototype,200,14720,https://facebook.com,curl/7.88.1
+2025-05-15,06:02:14,155.55.160.223,United Kingdom,POST,/prototype.php,Prototype,200,51000,https://facebook.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-04-09,22:11:09,196.50.223.0,Botswana,POST,/images/events.jpg,Event Image,200,48251,https://linkedin.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-09-15,23:08:38,203.12.160.63,Australia,GET,/ai-assistant.php,AI Virtual Assistant,301,41050,https://linkedin.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-06-06,06:38:36,155.55.65.98,United Kingdom,POST,/events.php,Events,200,81188,https://facebook.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-06-07,16:53:41,105.112.0.155,Nigeria,POST,/products.html,Products,500,80028,https://bing.com,curl/7.88.1
+2025-06-21,13:44:38,197.248.109.242,Kenya,GET,/jobs.php,Jobs Placed,200,37708,https://facebook.com,Googlebot/2.1
+2025-05-11,04:10:51,196.50.120.158,Botswana,GET,/products.html,Products,200,3713,-,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-07-04,12:35:30,128.1.37.233,United States,POST,/scheduledemo.php,Schedule Demo,200,94667,https://linkedin.com,curl/7.88.1
+2025-06-05,05:02:04,41.10.2.54,South Africa,GET,/jobs.php,Jobs Placed,200,91726,https://facebook.com,curl/7.88.1
+2025-01-20,12:04:09,105.112.62.233,Nigeria,POST,/index.html,Homepage,301,73771,https://facebook.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-10-21,07:26:25,203.12.218.228,Australia,POST,/pricing.php,Pricing,404,34484,https://google.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-10-25,09:54:03,157.20.248.122,India,GET,/products.html,Products,200,31247,https://bing.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-05-05,03:54:32,203.12.41.70,Australia,POST,/index.html,Homepage,200,93103,https://google.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-06-11,02:50:56,41.189.238.212,Zimbabwe,POST,/index.html,Homepage,304,0,https://facebook.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-11-29,17:19:16,91.198.194.244,Germany,GET,/index.html,Homepage,200,99271,https://linkedin.com,curl/7.88.1
+2025-07-29,00:34:45,155.55.112.249,United Kingdom,POST,/products.html,Products,404,4316,https://linkedin.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-09-17,18:21:14,128.1.207.84,United States,GET,/contact.php,Contact,500,70520,-,curl/7.88.1
+2025-08-18,20:50:25,105.112.13.42,Nigeria,GET,/ai-assistant.php,AI Virtual Assistant,404,24331,-,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-05-28,05:30:14,41.10.232.167,South Africa,POST,/scheduledemo.php,Schedule Demo,200,99079,https://linkedin.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-11-21,05:56:01,196.50.9.26,Botswana,GET,/blog.html,Blog,200,85727,-,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-10-20,21:57:46,196.50.126.102,Botswana,POST,/contact.php,Contact,200,31778,https://google.com,curl/7.88.1
+2025-09-17,23:48:31,196.50.111.238,Botswana,GET,/ai-assistant.php,AI Virtual Assistant,200,79927,https://facebook.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-10-30,01:32:44,157.20.159.55,India,GET,/prototype.php,Prototype,500,89293,https://linkedin.com,curl/7.88.1
+2025-10-05,16:25:12,41.10.124.52,South Africa,GET,/ai-assistant.php,AI Virtual Assistant,500,16378,https://facebook.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-05-15,20:10:25,105.112.189.35,Nigeria,GET,/images/events.jpg,Event Image,200,55569,https://linkedin.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-06-18,08:43:51,24.48.235.78,Canada,POST,/events.php,Events,200,81240,https://facebook.com,curl/7.88.1
+2025-06-30,12:56:15,197.248.137.165,Kenya,GET,/contact.php,Contact,200,59599,https://google.com,curl/7.88.1
+2025-08-10,07:23:01,128.1.194.172,United States,GET,/index.html,Homepage,200,64416,https://google.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-11-06,20:20:11,41.10.143.141,South Africa,POST,/images/events.jpg,Event Image,200,11733,https://google.com,curl/7.88.1
+2025-07-09,17:52:32,105.112.123.243,Nigeria,POST,/ai-assistant.php,AI Virtual Assistant,404,2772,-,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-03-28,01:25:41,41.189.124.156,Zimbabwe,GET,/ai-assistant.php,AI Virtual Assistant,404,73056,https://facebook.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-06-15,05:58:58,90.50.169.180,France,GET,/ai-assistant.php,AI Virtual Assistant,200,33463,https://google.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-10-08,02:51:26,41.10.61.94,South Africa,POST,/index.html,Homepage,200,95484,https://facebook.com,Googlebot/2.1
+2025-08-20,18:29:34,41.10.51.99,South Africa,GET,/products.html,Products,200,40130,-,Googlebot/2.1
+2025-02-19,03:50:19,41.10.27.149,South Africa,GET,/ai-assistant.php,AI Virtual Assistant,404,13958,-,Googlebot/2.1
+2025-04-21,10:14:04,197.248.225.174,Kenya,GET,/index.html,Homepage,200,63128,-,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-06-05,14:51:50,197.248.27.77,Kenya,POST,/index.html,Homepage,200,11676,https://google.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-08-05,17:37:03,157.20.115.194,India,POST,/events.php,Events,200,77651,https://linkedin.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-08-09,20:00:38,128.1.50.106,United States,GET,/prototype.php,Prototype,200,21097,https://google.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-08-03,08:56:26,196.50.1.209,Botswana,POST,/events.php,Events,404,38687,-,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-04-22,21:19:55,155.55.232.36,United Kingdom,GET,/ai-assistant.php,AI Virtual Assistant,500,87174,https://google.com,curl/7.88.1
+2025-02-14,13:47:33,105.112.76.136,Nigeria,GET,/contact.php,Contact,200,22259,https://bing.com,Googlebot/2.1
+2025-10-18,20:47:30,157.20.147.224,India,GET,/index.html,Homepage,304,0,https://bing.com,Googlebot/2.1
+2025-07-29,16:59:34,197.248.41.20,Kenya,GET,/pricing.php,Pricing,500,33328,-,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-03-30,21:43:48,24.48.10.137,Canada,GET,/prototype.php,Prototype,404,68533,https://linkedin.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-03-12,11:36:05,90.50.223.251,France,POST,/about.html,About,304,0,https://linkedin.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-05-05,16:28:47,128.1.82.168,United States,POST,/scheduledemo.php,Schedule Demo,200,87358,https://linkedin.com,Googlebot/2.1
+2025-01-15,06:02:31,197.248.161.129,Kenya,POST,/scheduledemo.php,Schedule Demo,301,662,https://facebook.com,curl/7.88.1
+2025-06-10,11:44:47,196.50.185.255,Botswana,GET,/prototype.php,Prototype,200,35515,https://facebook.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-12-27,06:32:12,41.10.248.62,South Africa,POST,/index.html,Homepage,200,93544,https://google.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-08-02,22:11:30,196.50.208.47,Botswana,GET,/products.html,Products,404,15908,https://google.com,curl/7.88.1
+2025-12-29,04:57:23,155.55.139.212,United Kingdom,POST,/contact.php,Contact,200,60383,https://facebook.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-05-29,23:16:50,41.10.69.35,South Africa,POST,/products.html,Products,304,0,https://facebook.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-11-15,16:04:31,196.50.152.250,Botswana,POST,/contact.php,Contact,301,63995,https://bing.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-08-03,08:14:35,157.20.193.233,India,GET,/about.html,About,200,75458,https://linkedin.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-11-29,10:37:09,157.20.22.162,India,POST,/jobs.php,Jobs Placed,304,0,https://google.com,curl/7.88.1
+2025-01-15,09:02:52,196.50.169.51,Botswana,POST,/contact.php,Contact,200,69449,https://linkedin.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-10-08,13:39:52,196.50.79.38,Botswana,GET,/events.php,Events,304,0,https://facebook.com,curl/7.88.1
+2025-09-10,08:54:59,196.50.168.194,Botswana,POST,/about.html,About,301,5217,https://facebook.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-04-02,04:13:02,128.1.147.116,United States,POST,/jobs.php,Jobs Placed,200,100175,-,curl/7.88.1
+2025-03-06,14:37:55,155.55.14.23,United Kingdom,GET,/scheduledemo.php,Schedule Demo,200,47496,https://bing.com,curl/7.88.1
+2025-02-26,12:48:31,41.10.210.92,South Africa,GET,/index.html,Homepage,500,50652,https://facebook.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-07-13,06:35:41,203.12.73.118,Australia,GET,/events.php,Events,404,33978,-,curl/7.88.1
+2025-12-16,23:52:50,41.10.80.37,South Africa,GET,/events.php,Events,500,39722,https://linkedin.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-06-27,10:01:06,91.198.101.196,Germany,GET,/contact.php,Contact,200,50498,https://facebook.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-08-12,05:38:07,41.10.151.11,South Africa,POST,/blog.html,Blog,200,1573,https://facebook.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-12-20,15:33:54,105.112.254.146,Nigeria,GET,/jobs.php,Jobs Placed,500,46691,https://google.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-08-30,03:07:30,41.10.70.49,South Africa,GET,/pricing.php,Pricing,200,58291,-,Googlebot/2.1
+2025-05-22,16:45:11,155.55.46.151,United Kingdom,POST,/scheduledemo.php,Schedule Demo,200,26830,https://google.com,Googlebot/2.1
+2025-12-07,09:12:17,24.48.139.84,Canada,POST,/products.html,Products,200,98365,https://bing.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-07-01,21:09:53,24.48.72.115,Canada,POST,/contact.php,Contact,301,48454,-,curl/7.88.1
+2025-01-06,09:43:52,41.10.63.232,South Africa,GET,/scheduledemo.php,Schedule Demo,500,50453,https://bing.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-09-20,01:55:57,41.10.12.167,South Africa,GET,/pricing.php,Pricing,200,83795,https://linkedin.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-09-10,03:21:00,41.189.71.23,Zimbabwe,GET,/about.html,About,404,15732,-,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-12-11,13:51:22,105.112.198.232,Nigeria,POST,/scheduledemo.php,Schedule Demo,304,0,https://facebook.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-12-10,20:39:16,41.189.50.250,Zimbabwe,GET,/prototype.php,Prototype,200,90988,https://bing.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-06-22,04:37:47,197.248.120.185,Kenya,GET,/index.html,Homepage,301,85030,https://bing.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-06-04,14:55:49,41.10.62.232,South Africa,GET,/index.html,Homepage,500,3311,-,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-04-05,14:13:35,90.50.105.35,France,POST,/contact.php,Contact,200,77370,https://google.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-05-08,14:23:49,157.20.1.141,India,GET,/contact.php,Contact,200,71319,https://bing.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-02-12,16:35:16,128.1.13.67,United States,GET,/index.html,Homepage,500,42949,-,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-04-14,01:24:16,196.50.215.58,Botswana,POST,/jobs.php,Jobs Placed,404,47965,https://facebook.com,Googlebot/2.1
+2025-02-12,08:27:25,197.248.113.22,Kenya,POST,/ai-assistant.php,AI Virtual Assistant,200,60548,-,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-07-06,00:26:05,91.198.218.55,Germany,POST,/events.php,Events,200,11101,https://bing.com,Googlebot/2.1
+2025-02-27,14:34:17,196.50.140.166,Botswana,POST,/scheduledemo.php,Schedule Demo,301,39164,https://linkedin.com,Googlebot/2.1
+2025-08-24,02:59:12,197.248.58.110,Kenya,GET,/events.php,Events,304,0,https://bing.com,curl/7.88.1
+2025-06-04,20:26:04,41.189.48.160,Zimbabwe,GET,/events.php,Events,304,0,https://google.com,curl/7.88.1
+2025-01-27,01:43:40,196.50.43.47,Botswana,GET,/events.php,Events,200,73436,-,Googlebot/2.1
+2025-08-07,02:21:53,105.112.62.210,Nigeria,POST,/scheduledemo.php,Schedule Demo,200,38212,https://facebook.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-05-17,13:34:48,196.50.108.79,Botswana,GET,/ai-assistant.php,AI Virtual Assistant,200,46402,https://facebook.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-02-14,14:48:31,157.20.115.219,India,POST,/contact.php,Contact,500,88982,https://facebook.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-08-25,12:14:38,203.12.136.14,Australia,GET,/index.html,Homepage,304,0,https://bing.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-03-12,10:49:20,91.198.205.35,Germany,GET,/index.html,Homepage,200,98306,https://facebook.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-05-27,02:23:09,41.189.174.80,Zimbabwe,GET,/scheduledemo.php,Schedule Demo,500,78660,-,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-03-02,10:06:35,196.50.25.41,Botswana,POST,/products.html,Products,404,80082,https://linkedin.com,curl/7.88.1
+2025-04-17,02:05:58,41.10.58.176,South Africa,GET,/events.php,Events,500,64295,https://facebook.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-01-18,15:19:13,41.10.28.3,South Africa,GET,/products.html,Products,200,100672,https://bing.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-05-08,10:19:19,196.50.254.220,Botswana,POST,/index.html,Homepage,301,92743,https://google.com,Googlebot/2.1
+2025-08-05,23:40:51,91.198.181.36,Germany,GET,/scheduledemo.php,Schedule Demo,304,0,-,curl/7.88.1
+2025-12-24,17:51:22,196.50.160.219,Botswana,POST,/prototype.php,Prototype,200,15608,https://linkedin.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-05-07,03:03:31,196.50.235.185,Botswana,GET,/index.html,Homepage,200,57616,https://facebook.com,curl/7.88.1
+2025-07-23,11:41:05,196.50.158.173,Botswana,GET,/products.html,Products,200,67422,-,Googlebot/2.1
+2025-07-18,01:05:51,41.10.178.179,South Africa,GET,/ai-assistant.php,AI Virtual Assistant,200,13986,https://google.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-03-18,14:42:23,196.50.78.38,Botswana,POST,/index.html,Homepage,404,99398,https://facebook.com,Googlebot/2.1
+2025-06-24,08:06:00,128.1.165.161,United States,GET,/index.html,Homepage,404,58473,https://bing.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-08-18,16:25:54,196.50.37.158,Botswana,GET,/events.php,Events,200,48843,https://bing.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-09-08,08:43:37,91.198.46.196,Germany,POST,/events.php,Events,200,59459,https://facebook.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-05-05,20:50:47,105.112.77.31,Nigeria,GET,/events.php,Events,200,66644,https://google.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-04-07,05:08:19,155.55.224.81,United Kingdom,GET,/scheduledemo.php,Schedule Demo,304,0,https://linkedin.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-09-21,15:47:07,105.112.171.33,Nigeria,POST,/scheduledemo.php,Schedule Demo,304,0,https://bing.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-10-09,01:41:11,91.198.76.170,Germany,GET,/index.html,Homepage,304,0,https://bing.com,curl/7.88.1
+2025-02-20,01:54:59,105.112.43.158,Nigeria,GET,/images/events.jpg,Event Image,200,88345,https://facebook.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-09-08,21:23:15,128.1.185.9,United States,GET,/scheduledemo.php,Schedule Demo,200,45303,https://linkedin.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-03-29,23:32:03,90.50.79.39,France,GET,/products.html,Products,301,101552,https://facebook.com,Googlebot/2.1
+2025-01-15,15:49:55,128.1.67.192,United States,GET,/index.html,Homepage,500,22209,https://linkedin.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-06-09,13:28:47,41.189.121.227,Zimbabwe,POST,/prototype.php,Prototype,200,70505,https://google.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-11-11,00:55:14,157.20.99.188,India,POST,/ai-assistant.php,AI Virtual Assistant,404,61025,https://bing.com,curl/7.88.1
+2025-07-15,07:25:48,105.112.82.102,Nigeria,GET,/jobs.php,Jobs Placed,200,7351,https://linkedin.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-08-04,08:41:39,203.12.63.145,Australia,GET,/index.html,Homepage,200,59405,https://facebook.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-11-19,17:55:00,197.248.113.230,Kenya,GET,/pricing.php,Pricing,304,0,-,curl/7.88.1
+2025-07-14,23:02:43,41.189.197.41,Zimbabwe,GET,/scheduledemo.php,Schedule Demo,304,0,-,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-11-04,08:12:07,196.50.19.146,Botswana,POST,/pricing.php,Pricing,200,99974,https://linkedin.com,curl/7.88.1
+2025-08-27,23:27:41,196.50.40.9,Botswana,GET,/products.html,Products,301,95832,https://facebook.com,Googlebot/2.1
+2025-06-14,09:01:13,196.50.147.121,Botswana,GET,/products.html,Products,200,55539,https://facebook.com,curl/7.88.1
+2025-01-25,09:24:18,196.50.255.8,Botswana,POST,/ai-assistant.php,AI Virtual Assistant,200,94693,https://google.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-06-16,16:47:47,196.50.180.123,Botswana,GET,/prototype.php,Prototype,200,69126,https://bing.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-07-24,07:13:45,105.112.10.199,Nigeria,GET,/contact.php,Contact,304,0,https://bing.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-10-18,05:29:43,196.50.34.176,Botswana,GET,/products.html,Products,500,96874,https://bing.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-01-18,05:14:18,41.189.173.89,Zimbabwe,POST,/contact.php,Contact,404,83314,https://google.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-01-25,12:08:22,155.55.234.18,United Kingdom,GET,/products.html,Products,200,6004,https://bing.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-07-20,03:43:23,41.189.242.129,Zimbabwe,GET,/index.html,Homepage,200,47301,-,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-04-17,02:33:48,196.50.188.223,Botswana,POST,/pricing.php,Pricing,304,0,https://bing.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-07-12,16:56:57,155.55.188.136,United Kingdom,POST,/jobs.php,Jobs Placed,200,56952,https://facebook.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-07-31,20:11:23,41.10.52.40,South Africa,GET,/scheduledemo.php,Schedule Demo,200,58959,https://facebook.com,curl/7.88.1
+2025-03-06,17:14:30,128.1.179.228,United States,GET,/index.html,Homepage,500,57520,https://bing.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-01-30,03:26:03,128.1.207.186,United States,GET,/images/events.jpg,Event Image,200,19226,https://facebook.com,curl/7.88.1
+2025-01-14,12:20:59,196.50.120.187,Botswana,POST,/scheduledemo.php,Schedule Demo,200,79822,https://google.com,curl/7.88.1
+2025-05-25,01:38:23,41.189.39.70,Zimbabwe,POST,/images/events.jpg,Event Image,304,0,https://bing.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-02-14,01:25:03,196.50.95.255,Botswana,POST,/images/events.jpg,Event Image,200,34823,https://bing.com,curl/7.88.1
+2025-03-25,07:56:28,90.50.146.251,France,GET,/products.html,Products,200,59762,https://google.com,curl/7.88.1
+2025-02-04,02:16:08,157.20.163.177,India,POST,/ai-assistant.php,AI Virtual Assistant,301,38570,https://bing.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-10-04,10:32:30,155.55.89.185,United Kingdom,GET,/images/events.jpg,Event Image,200,18714,https://google.com,curl/7.88.1
+2025-01-11,04:59:05,41.189.188.239,Zimbabwe,POST,/jobs.php,Jobs Placed,200,80721,-,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-05-01,02:47:54,41.189.245.210,Zimbabwe,POST,/jobs.php,Jobs Placed,200,16938,https://bing.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-06-24,18:03:58,197.248.176.65,Kenya,POST,/contact.php,Contact,500,24362,https://google.com,curl/7.88.1
+2025-07-15,07:01:48,203.12.28.63,Australia,GET,/images/events.jpg,Event Image,200,21741,https://bing.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-05-15,09:10:07,24.48.145.40,Canada,POST,/products.html,Products,200,16918,https://bing.com,Googlebot/2.1
+2025-07-27,04:22:32,196.50.86.78,Botswana,POST,/index.html,Homepage,500,44764,https://facebook.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-11-17,11:45:34,91.198.41.23,Germany,POST,/about.html,About,200,85856,https://google.com,Googlebot/2.1
+2025-06-11,18:52:12,128.1.15.254,United States,POST,/pricing.php,Pricing,200,84648,https://bing.com,curl/7.88.1
+2025-04-06,02:25:39,157.20.207.152,India,GET,/events.php,Events,200,58131,https://linkedin.com,curl/7.88.1
+2025-06-30,08:54:52,41.10.73.160,South Africa,GET,/contact.php,Contact,304,0,https://linkedin.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-10-23,09:54:41,41.189.54.163,Zimbabwe,GET,/products.html,Products,200,59441,https://google.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-02-07,14:21:00,196.50.196.214,Botswana,GET,/products.html,Products,304,0,https://facebook.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-03-15,17:22:55,157.20.255.239,India,GET,/events.php,Events,404,3549,-,curl/7.88.1
+2025-07-16,07:05:01,197.248.123.110,Kenya,GET,/prototype.php,Prototype,200,37389,https://linkedin.com,Googlebot/2.1
+2025-12-09,15:59:59,91.198.240.146,Germany,GET,/images/events.jpg,Event Image,304,0,https://google.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-10-10,12:51:59,41.189.206.187,Zimbabwe,GET,/index.html,Homepage,500,74150,https://google.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-08-03,20:24:41,41.10.197.230,South Africa,GET,/jobs.php,Jobs Placed,500,89693,https://facebook.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-02-19,23:13:46,24.48.201.191,Canada,GET,/jobs.php,Jobs Placed,301,48432,https://google.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-08-22,23:21:42,197.248.20.23,Kenya,GET,/index.html,Homepage,404,68581,https://linkedin.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-08-24,10:45:27,203.12.71.167,Australia,GET,/about.html,About,200,52017,https://facebook.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-08-19,13:54:53,41.189.250.153,Zimbabwe,GET,/events.php,Events,304,0,https://bing.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-06-11,18:26:12,105.112.13.242,Nigeria,POST,/products.html,Products,500,30336,-,Googlebot/2.1
+2025-07-06,14:06:26,196.50.194.75,Botswana,GET,/contact.php,Contact,200,75559,-,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-01-08,08:30:32,197.248.214.77,Kenya,GET,/scheduledemo.php,Schedule Demo,304,0,https://facebook.com,Googlebot/2.1
+2025-12-24,11:52:37,197.248.31.70,Kenya,POST,/images/events.jpg,Event Image,304,0,https://linkedin.com,Googlebot/2.1
+2025-05-27,08:15:41,41.10.88.235,South Africa,GET,/pricing.php,Pricing,301,46949,https://bing.com,Googlebot/2.1
+2025-07-08,00:53:08,41.10.126.142,South Africa,GET,/images/events.jpg,Event Image,200,101591,https://bing.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-09-26,01:30:08,155.55.162.245,United Kingdom,GET,/scheduledemo.php,Schedule Demo,200,16486,https://facebook.com,Googlebot/2.1
+2025-05-28,11:00:22,203.12.202.176,Australia,GET,/about.html,About,200,6025,https://bing.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-05-15,12:20:30,203.12.131.245,Australia,POST,/products.html,Products,200,74176,https://bing.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-02-12,10:03:55,128.1.122.124,United States,POST,/index.html,Homepage,200,84128,https://google.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-02-08,21:54:45,41.189.241.51,Zimbabwe,GET,/ai-assistant.php,AI Virtual Assistant,200,72647,https://google.com,curl/7.88.1
+2025-09-11,13:24:06,203.12.243.244,Australia,GET,/ai-assistant.php,AI Virtual Assistant,304,0,https://bing.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-12-19,14:35:08,157.20.118.19,India,GET,/pricing.php,Pricing,304,0,https://google.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-11-21,17:58:43,41.189.253.95,Zimbabwe,GET,/about.html,About,200,1726,https://bing.com,Googlebot/2.1
+2025-08-23,02:20:40,196.50.171.145,Botswana,POST,/events.php,Events,301,65250,https://google.com,Googlebot/2.1
+2025-07-01,18:16:11,41.10.57.169,South Africa,POST,/index.html,Homepage,200,94700,https://google.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-10-14,01:46:35,41.189.151.98,Zimbabwe,POST,/index.html,Homepage,304,0,https://facebook.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-02-03,16:27:16,41.189.48.94,Zimbabwe,POST,/blog.html,Blog,304,0,https://google.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-04-12,06:41:41,41.189.228.136,Zimbabwe,GET,/about.html,About,500,95261,https://facebook.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-04-12,13:51:07,128.1.120.31,United States,POST,/ai-assistant.php,AI Virtual Assistant,200,21446,https://linkedin.com,Googlebot/2.1
+2025-12-25,11:58:17,203.12.159.60,Australia,GET,/ai-assistant.php,AI Virtual Assistant,304,0,https://facebook.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-03-27,02:25:35,24.48.244.78,Canada,POST,/events.php,Events,304,0,https://linkedin.com,Googlebot/2.1
+2025-12-21,11:53:01,197.248.111.126,Kenya,POST,/ai-assistant.php,AI Virtual Assistant,200,69391,https://linkedin.com,Googlebot/2.1
+2025-10-01,07:34:32,41.189.57.31,Zimbabwe,POST,/contact.php,Contact,200,75577,https://facebook.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-03-05,21:35:50,41.10.226.59,South Africa,POST,/ai-assistant.php,AI Virtual Assistant,404,12431,https://facebook.com,curl/7.88.1
+2025-11-11,01:33:23,196.50.67.212,Botswana,GET,/events.php,Events,301,61116,https://bing.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-06-03,18:30:34,41.10.1.111,South Africa,GET,/prototype.php,Prototype,304,0,https://bing.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-07-30,04:00:33,90.50.35.241,France,POST,/index.html,Homepage,200,101302,https://google.com,curl/7.88.1
+2025-05-26,10:13:43,90.50.195.229,France,POST,/contact.php,Contact,304,0,-,Googlebot/2.1
+2025-02-21,15:33:17,128.1.178.60,United States,POST,/index.html,Homepage,304,0,https://facebook.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-10-10,16:07:46,24.48.1.11,Canada,POST,/blog.html,Blog,301,56103,https://facebook.com,curl/7.88.1
+2025-11-16,18:16:31,41.10.235.177,South Africa,GET,/index.html,Homepage,200,4734,https://linkedin.com,Googlebot/2.1
+2025-10-25,12:08:08,203.12.8.123,Australia,GET,/products.html,Products,500,4912,https://linkedin.com,Googlebot/2.1
+2025-09-18,23:42:51,155.55.24.125,United Kingdom,POST,/jobs.php,Jobs Placed,404,31227,https://facebook.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-10-20,23:23:03,91.198.28.71,Germany,GET,/images/events.jpg,Event Image,200,96393,https://facebook.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-08-13,06:27:19,105.112.164.121,Nigeria,GET,/products.html,Products,301,29484,https://linkedin.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-04-17,20:37:13,196.50.89.218,Botswana,GET,/images/events.jpg,Event Image,304,0,https://linkedin.com,Googlebot/2.1
+2025-05-04,18:49:13,155.55.209.76,United Kingdom,GET,/products.html,Products,301,62577,https://google.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-04-27,19:03:59,91.198.73.237,Germany,POST,/pricing.php,Pricing,304,0,https://linkedin.com,Googlebot/2.1
+2025-07-25,19:52:54,196.50.124.130,Botswana,GET,/products.html,Products,404,49149,-,Googlebot/2.1
+2025-10-09,09:37:08,157.20.26.137,India,POST,/scheduledemo.php,Schedule Demo,500,5695,-,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-11-09,11:53:14,157.20.111.245,India,GET,/products.html,Products,200,2521,https://google.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-10-15,23:02:59,196.50.245.124,Botswana,GET,/ai-assistant.php,AI Virtual Assistant,304,0,https://google.com,Googlebot/2.1
+2025-05-05,21:40:08,157.20.194.238,India,GET,/images/events.jpg,Event Image,200,34795,https://bing.com,Googlebot/2.1
+2025-12-09,20:24:13,197.248.50.240,Kenya,GET,/jobs.php,Jobs Placed,200,49101,https://bing.com,curl/7.88.1
+2025-01-18,18:05:55,105.112.113.74,Nigeria,POST,/index.html,Homepage,500,76421,https://linkedin.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-03-01,04:34:38,41.10.117.194,South Africa,GET,/prototype.php,Prototype,404,72685,https://bing.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-10-24,11:02:12,157.20.251.235,India,GET,/index.html,Homepage,200,18856,https://facebook.com,curl/7.88.1
+2025-03-13,11:26:58,203.12.30.17,Australia,GET,/contact.php,Contact,200,100695,-,curl/7.88.1
+2025-02-23,09:30:50,91.198.118.34,Germany,GET,/ai-assistant.php,AI Virtual Assistant,200,66799,https://linkedin.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-01-24,11:26:09,128.1.247.249,United States,POST,/index.html,Homepage,301,54426,-,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-07-25,14:31:48,155.55.146.8,United Kingdom,POST,/images/events.jpg,Event Image,200,14538,-,Googlebot/2.1
+2025-02-27,19:49:30,41.10.129.181,South Africa,POST,/products.html,Products,200,49408,https://linkedin.com,curl/7.88.1
+2025-08-08,10:12:07,41.10.115.153,South Africa,GET,/ai-assistant.php,AI Virtual Assistant,200,12767,https://linkedin.com,curl/7.88.1
+2025-05-27,11:28:30,105.112.28.4,Nigeria,GET,/ai-assistant.php,AI Virtual Assistant,404,57385,https://bing.com,Googlebot/2.1
+2025-11-30,04:46:10,24.48.21.117,Canada,POST,/products.html,Products,404,36044,-,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-09-23,19:20:17,203.12.16.91,Australia,GET,/pricing.php,Pricing,200,27664,https://facebook.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-10-20,03:31:11,157.20.203.39,India,POST,/products.html,Products,200,74789,https://linkedin.com,Googlebot/2.1
+2025-05-09,19:56:46,41.189.71.40,Zimbabwe,GET,/images/events.jpg,Event Image,200,13315,https://linkedin.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-11-22,17:00:51,196.50.203.167,Botswana,GET,/index.html,Homepage,404,64816,https://google.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-08-03,18:41:06,24.48.221.95,Canada,POST,/ai-assistant.php,AI Virtual Assistant,200,101721,https://facebook.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-11-06,22:24:48,41.10.37.42,South Africa,POST,/products.html,Products,200,97460,https://linkedin.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-05-21,01:58:11,196.50.2.157,Botswana,GET,/events.php,Events,200,17879,-,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-06-17,09:01:12,197.248.208.52,Kenya,GET,/index.html,Homepage,301,12710,https://facebook.com,Googlebot/2.1
+2025-11-01,15:29:55,41.10.197.6,South Africa,POST,/products.html,Products,200,95518,https://facebook.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-08-11,03:03:27,105.112.194.86,Nigeria,GET,/index.html,Homepage,200,65146,https://google.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-03-06,22:29:09,197.248.215.153,Kenya,GET,/events.php,Events,304,0,https://bing.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-10-07,23:16:11,128.1.100.234,United States,GET,/index.html,Homepage,200,52376,https://bing.com,Googlebot/2.1
+2025-05-28,12:49:51,157.20.168.225,India,POST,/scheduledemo.php,Schedule Demo,200,39890,https://bing.com,Googlebot/2.1
+2025-09-28,00:35:38,41.10.160.90,South Africa,GET,/about.html,About,200,96833,https://linkedin.com,Googlebot/2.1
+2025-10-31,16:31:45,41.10.192.143,South Africa,POST,/jobs.php,Jobs Placed,304,0,-,Googlebot/2.1
+2025-03-19,14:16:17,105.112.92.13,Nigeria,POST,/about.html,About,200,57981,https://bing.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-11-15,01:18:44,91.198.209.255,Germany,GET,/index.html,Homepage,200,33631,https://google.com,curl/7.88.1
+2025-11-03,10:43:42,41.189.229.245,Zimbabwe,POST,/prototype.php,Prototype,301,91175,https://linkedin.com,Googlebot/2.1
+2025-01-15,06:40:34,157.20.184.43,India,GET,/index.html,Homepage,304,0,https://google.com,Googlebot/2.1
+2025-01-18,04:52:30,105.112.204.169,Nigeria,POST,/about.html,About,200,1894,-,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-03-28,05:12:00,197.248.113.228,Kenya,POST,/scheduledemo.php,Schedule Demo,500,91008,https://facebook.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-05-14,23:19:44,90.50.247.53,France,GET,/products.html,Products,200,96214,https://google.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-05-02,03:01:43,41.189.105.247,Zimbabwe,GET,/scheduledemo.php,Schedule Demo,404,95145,https://linkedin.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-01-27,02:06:36,41.10.58.11,South Africa,GET,/contact.php,Contact,200,97569,https://google.com,Googlebot/2.1
+2025-03-09,18:01:19,105.112.169.218,Nigeria,GET,/about.html,About,304,0,https://google.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-09-06,17:41:44,128.1.202.14,United States,GET,/jobs.php,Jobs Placed,404,78133,https://linkedin.com,curl/7.88.1
+2025-01-02,17:28:38,155.55.105.142,United Kingdom,GET,/jobs.php,Jobs Placed,500,13848,https://facebook.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-05-23,01:26:17,41.10.234.58,South Africa,POST,/products.html,Products,301,84281,https://bing.com,Googlebot/2.1
+2025-05-31,22:22:49,128.1.58.178,United States,POST,/scheduledemo.php,Schedule Demo,500,23125,https://bing.com,Googlebot/2.1
+2025-08-18,04:46:04,196.50.68.160,Botswana,GET,/index.html,Homepage,200,24504,https://bing.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-07-18,09:13:58,41.189.70.196,Zimbabwe,POST,/events.php,Events,301,91401,https://google.com,Googlebot/2.1
+2025-03-06,19:17:57,197.248.71.95,Kenya,POST,/products.html,Products,500,7538,https://bing.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-07-08,04:52:57,196.50.196.253,Botswana,POST,/scheduledemo.php,Schedule Demo,304,0,https://linkedin.com,curl/7.88.1
+2025-03-06,22:54:55,196.50.15.112,Botswana,GET,/products.html,Products,200,70977,https://bing.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-10-31,05:01:33,197.248.253.57,Kenya,GET,/prototype.php,Prototype,301,48597,https://facebook.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-10-23,03:45:06,155.55.111.217,United Kingdom,GET,/index.html,Homepage,200,4736,https://linkedin.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-05-16,08:58:22,91.198.44.224,Germany,GET,/contact.php,Contact,200,28021,https://facebook.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-12-01,09:33:19,155.55.219.84,United Kingdom,GET,/prototype.php,Prototype,200,8292,https://facebook.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-07-26,17:12:59,41.10.86.165,South Africa,GET,/blog.html,Blog,200,75581,https://bing.com,Googlebot/2.1
+2025-12-16,14:03:19,128.1.48.69,United States,POST,/about.html,About,200,36861,https://google.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-04-07,23:09:38,196.50.164.126,Botswana,POST,/jobs.php,Jobs Placed,404,19146,https://facebook.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-09-01,19:38:22,41.189.231.38,Zimbabwe,GET,/ai-assistant.php,AI Virtual Assistant,304,0,https://facebook.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-09-27,19:06:25,203.12.188.232,Australia,GET,/about.html,About,500,836,-,curl/7.88.1
+2025-09-04,13:08:33,128.1.183.32,United States,POST,/jobs.php,Jobs Placed,200,56826,https://google.com,curl/7.88.1
+2025-04-15,06:56:41,41.10.145.172,South Africa,GET,/images/events.jpg,Event Image,500,64126,https://bing.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-01-18,20:13:08,196.50.235.8,Botswana,GET,/index.html,Homepage,404,60348,-,curl/7.88.1
+2025-03-20,13:44:32,90.50.67.154,France,GET,/index.html,Homepage,200,86310,https://bing.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-02-02,00:12:54,41.189.84.26,Zimbabwe,GET,/scheduledemo.php,Schedule Demo,200,56772,-,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-01-01,10:07:30,41.10.39.67,South Africa,POST,/prototype.php,Prototype,404,1729,-,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-11-14,08:00:29,196.50.216.67,Botswana,GET,/events.php,Events,304,0,-,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-02-10,01:54:28,41.10.153.70,South Africa,GET,/scheduledemo.php,Schedule Demo,200,9478,https://facebook.com,Googlebot/2.1
+2025-01-04,06:59:25,128.1.84.225,United States,GET,/scheduledemo.php,Schedule Demo,200,54475,https://facebook.com,curl/7.88.1
+2025-11-30,23:25:54,41.10.51.71,South Africa,POST,/jobs.php,Jobs Placed,304,0,https://bing.com,curl/7.88.1
+2025-05-03,03:23:11,157.20.126.141,India,GET,/ai-assistant.php,AI Virtual Assistant,301,79286,https://facebook.com,Googlebot/2.1
+2025-04-21,15:39:15,157.20.13.154,India,POST,/products.html,Products,301,25238,https://linkedin.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-09-08,22:44:19,196.50.122.253,Botswana,GET,/scheduledemo.php,Schedule Demo,404,84146,https://facebook.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-07-25,03:59:13,91.198.6.184,Germany,GET,/about.html,About,304,0,https://facebook.com,curl/7.88.1
+2025-05-22,21:53:27,105.112.88.241,Nigeria,GET,/about.html,About,200,77498,-,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-04-12,19:44:38,41.10.30.203,South Africa,POST,/images/events.jpg,Event Image,304,0,https://linkedin.com,curl/7.88.1
+2025-02-02,00:16:58,128.1.78.142,United States,GET,/index.html,Homepage,301,27145,https://google.com,Googlebot/2.1
+2025-05-07,21:32:00,41.189.33.158,Zimbabwe,GET,/ai-assistant.php,AI Virtual Assistant,200,32556,-,curl/7.88.1
+2025-02-15,01:04:23,197.248.28.158,Kenya,GET,/ai-assistant.php,AI Virtual Assistant,200,2172,https://google.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-03-05,15:01:50,197.248.177.132,Kenya,GET,/index.html,Homepage,200,96579,-,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-05-11,02:31:44,157.20.139.32,India,POST,/products.html,Products,200,65543,https://linkedin.com,Googlebot/2.1
+2025-05-20,20:35:52,196.50.85.188,Botswana,GET,/index.html,Homepage,500,88870,-,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-10-15,16:34:10,197.248.22.6,Kenya,POST,/products.html,Products,304,0,https://linkedin.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-03-11,12:02:12,203.12.18.214,Australia,GET,/products.html,Products,304,0,https://bing.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-11-17,18:51:00,196.50.190.61,Botswana,GET,/images/events.jpg,Event Image,200,29765,https://facebook.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-06-05,16:53:25,196.50.238.144,Botswana,GET,/jobs.php,Jobs Placed,304,0,-,Googlebot/2.1
+2025-06-27,09:10:58,196.50.102.149,Botswana,GET,/prototype.php,Prototype,500,32307,https://linkedin.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-08-18,18:57:33,24.48.100.125,Canada,POST,/index.html,Homepage,200,31051,https://facebook.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-09-04,23:24:27,91.198.4.171,Germany,POST,/index.html,Homepage,200,14136,https://google.com,Googlebot/2.1
+2025-04-03,11:52:58,41.189.30.72,Zimbabwe,GET,/ai-assistant.php,AI Virtual Assistant,200,30851,https://facebook.com,curl/7.88.1
+2025-09-30,04:21:59,203.12.234.43,Australia,POST,/prototype.php,Prototype,200,84033,https://linkedin.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-08-18,20:52:06,105.112.222.66,Nigeria,GET,/products.html,Products,304,0,https://linkedin.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-05-04,12:30:46,197.248.119.38,Kenya,GET,/about.html,About,500,14795,https://google.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-03-05,20:05:09,197.248.160.208,Kenya,GET,/index.html,Homepage,200,59745,https://bing.com,curl/7.88.1
+2025-04-13,22:03:10,91.198.46.80,Germany,GET,/jobs.php,Jobs Placed,500,5798,https://google.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-02-27,14:28:40,196.50.127.182,Botswana,GET,/scheduledemo.php,Schedule Demo,200,34612,https://google.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-06-07,01:12:31,91.198.127.48,Germany,GET,/events.php,Events,200,2079,-,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-02-20,18:21:15,41.10.205.190,South Africa,GET,/ai-assistant.php,AI Virtual Assistant,500,77335,https://bing.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-01-09,11:11:32,90.50.101.227,France,GET,/jobs.php,Jobs Placed,304,0,-,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-06-29,00:47:02,196.50.221.202,Botswana,POST,/events.php,Events,304,0,https://google.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-03-25,09:17:56,203.12.140.143,Australia,GET,/events.php,Events,200,81004,https://facebook.com,Googlebot/2.1
+2025-04-06,10:52:48,128.1.255.210,United States,POST,/pricing.php,Pricing,200,12009,https://bing.com,curl/7.88.1
+2025-02-23,07:07:56,41.189.127.9,Zimbabwe,GET,/blog.html,Blog,404,71883,https://linkedin.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-12-21,10:45:58,105.112.164.198,Nigeria,GET,/products.html,Products,304,0,https://facebook.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-01-12,09:07:40,203.12.143.29,Australia,POST,/jobs.php,Jobs Placed,301,47361,https://facebook.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-03-03,23:48:39,196.50.123.136,Botswana,GET,/images/events.jpg,Event Image,200,75969,https://linkedin.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-12-30,04:45:07,91.198.88.90,Germany,GET,/products.html,Products,304,0,https://facebook.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-10-01,04:39:21,155.55.72.96,United Kingdom,POST,/contact.php,Contact,301,41020,https://google.com,curl/7.88.1
+2025-01-15,17:50:51,196.50.119.112,Botswana,POST,/index.html,Homepage,200,43993,https://facebook.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-11-10,04:36:57,196.50.90.165,Botswana,GET,/index.html,Homepage,500,92877,https://google.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-11-25,17:46:25,105.112.186.37,Nigeria,POST,/scheduledemo.php,Schedule Demo,500,13754,https://bing.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-05-06,06:52:47,196.50.80.223,Botswana,POST,/jobs.php,Jobs Placed,304,0,https://google.com,Googlebot/2.1
+2025-09-27,08:27:05,91.198.182.114,Germany,GET,/ai-assistant.php,AI Virtual Assistant,304,0,https://bing.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-02-19,10:58:22,196.50.0.200,Botswana,POST,/contact.php,Contact,200,24377,https://facebook.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-12-24,16:41:54,157.20.113.53,India,GET,/about.html,About,304,0,-,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-05-15,16:30:16,90.50.85.45,France,GET,/contact.php,Contact,404,2005,https://bing.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-04-07,21:53:21,155.55.179.131,United Kingdom,GET,/jobs.php,Jobs Placed,200,51097,https://linkedin.com,curl/7.88.1
+2025-03-06,14:23:11,91.198.252.193,Germany,POST,/scheduledemo.php,Schedule Demo,200,63359,https://facebook.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-03-05,04:04:06,197.248.17.150,Kenya,GET,/index.html,Homepage,200,10237,https://bing.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-12-11,20:07:09,41.189.38.47,Zimbabwe,POST,/scheduledemo.php,Schedule Demo,404,92852,-,curl/7.88.1
+2025-09-11,20:19:17,196.50.222.80,Botswana,GET,/index.html,Homepage,200,25413,https://linkedin.com,Googlebot/2.1
+2025-10-08,09:52:58,203.12.135.144,Australia,GET,/products.html,Products,200,52010,https://facebook.com,Googlebot/2.1
+2025-11-23,04:00:40,197.248.27.184,Kenya,GET,/index.html,Homepage,200,87284,https://facebook.com,curl/7.88.1
+2025-03-19,13:06:14,196.50.105.87,Botswana,GET,/ai-assistant.php,AI Virtual Assistant,404,15651,https://bing.com,curl/7.88.1
+2025-07-02,21:31:13,197.248.135.46,Kenya,POST,/ai-assistant.php,AI Virtual Assistant,200,49142,https://linkedin.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-03-14,11:04:44,197.248.134.225,Kenya,GET,/events.php,Events,200,74468,-,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-10-20,03:20:22,155.55.49.43,United Kingdom,POST,/ai-assistant.php,AI Virtual Assistant,304,0,https://facebook.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-08-03,23:56:37,196.50.198.214,Botswana,POST,/about.html,About,500,31398,https://linkedin.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-01-31,15:54:51,41.189.17.75,Zimbabwe,POST,/index.html,Homepage,200,22422,https://google.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-02-19,00:08:19,196.50.40.222,Botswana,GET,/products.html,Products,500,34313,https://bing.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-02-03,19:09:16,41.189.203.166,Zimbabwe,POST,/contact.php,Contact,404,2132,https://facebook.com,Googlebot/2.1
+2025-07-22,22:37:51,157.20.57.212,India,POST,/index.html,Homepage,500,76884,-,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-08-07,12:35:33,157.20.146.176,India,GET,/contact.php,Contact,304,0,https://linkedin.com,Googlebot/2.1
+2025-08-25,11:56:19,197.248.88.141,Kenya,POST,/scheduledemo.php,Schedule Demo,500,89747,https://linkedin.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-06-03,17:03:20,91.198.169.121,Germany,POST,/index.html,Homepage,200,49328,-,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-11-14,10:35:20,157.20.159.143,India,GET,/contact.php,Contact,200,18126,https://bing.com,curl/7.88.1
+2025-10-28,14:29:27,157.20.137.213,India,GET,/prototype.php,Prototype,200,58408,https://google.com,curl/7.88.1
+2025-10-15,18:06:21,197.248.191.28,Kenya,GET,/images/events.jpg,Event Image,200,41291,https://facebook.com,curl/7.88.1
+2025-02-22,16:20:52,157.20.14.88,India,GET,/index.html,Homepage,200,33213,-,curl/7.88.1
+2025-01-20,15:14:47,203.12.101.140,Australia,POST,/scheduledemo.php,Schedule Demo,301,52540,-,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-04-04,23:01:35,41.189.228.90,Zimbabwe,POST,/about.html,About,500,72776,https://bing.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-03-05,12:03:26,91.198.132.46,Germany,POST,/products.html,Products,200,21864,https://facebook.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-11-29,20:51:19,41.10.115.105,South Africa,POST,/products.html,Products,301,3140,-,curl/7.88.1
+2025-12-20,23:56:22,196.50.88.4,Botswana,POST,/products.html,Products,200,93932,https://bing.com,curl/7.88.1
+2025-12-14,18:30:22,41.189.178.235,Zimbabwe,POST,/products.html,Products,200,89273,https://facebook.com,Googlebot/2.1
+2025-06-04,05:43:47,105.112.3.191,Nigeria,POST,/prototype.php,Prototype,500,37563,https://bing.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-07-07,02:07:39,196.50.141.166,Botswana,GET,/contact.php,Contact,200,25200,https://google.com,Googlebot/2.1
+2025-10-25,06:44:18,41.10.29.206,South Africa,GET,/ai-assistant.php,AI Virtual Assistant,200,86416,https://linkedin.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-04-11,18:01:41,203.12.207.198,Australia,POST,/jobs.php,Jobs Placed,500,25404,https://bing.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-09-24,12:56:54,105.112.243.183,Nigeria,GET,/images/events.jpg,Event Image,301,24253,https://bing.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-07-02,19:59:44,196.50.132.93,Botswana,GET,/about.html,About,200,29643,https://bing.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-10-17,00:32:21,91.198.215.169,Germany,POST,/scheduledemo.php,Schedule Demo,200,61298,-,curl/7.88.1
+2025-01-21,20:18:19,91.198.36.241,Germany,POST,/pricing.php,Pricing,200,89732,https://linkedin.com,Googlebot/2.1
+2025-04-26,20:52:37,41.189.77.70,Zimbabwe,GET,/blog.html,Blog,304,0,https://facebook.com,curl/7.88.1
+2025-02-25,14:56:45,41.10.92.41,South Africa,GET,/events.php,Events,304,0,-,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-06-25,13:26:29,41.10.86.81,South Africa,GET,/events.php,Events,200,81053,https://linkedin.com,curl/7.88.1
+2025-06-06,15:53:59,41.189.244.196,Zimbabwe,POST,/index.html,Homepage,200,96280,https://bing.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-12-13,10:06:07,41.10.97.9,South Africa,GET,/ai-assistant.php,AI Virtual Assistant,200,91413,https://bing.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-02-20,01:43:19,196.50.156.85,Botswana,GET,/index.html,Homepage,200,38631,https://linkedin.com,Googlebot/2.1
+2025-08-20,14:34:13,105.112.222.68,Nigeria,POST,/scheduledemo.php,Schedule Demo,304,0,https://google.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-12-19,04:52:00,203.12.206.9,Australia,GET,/products.html,Products,200,96728,-,Googlebot/2.1
+2025-07-15,23:31:32,196.50.187.19,Botswana,GET,/scheduledemo.php,Schedule Demo,301,82187,-,Googlebot/2.1
+2025-01-19,15:01:23,128.1.10.24,United States,POST,/ai-assistant.php,AI Virtual Assistant,404,50352,-,Googlebot/2.1
+2025-04-09,03:41:29,197.248.78.105,Kenya,GET,/ai-assistant.php,AI Virtual Assistant,200,55676,-,Googlebot/2.1
+2025-04-15,20:22:09,128.1.70.214,United States,GET,/contact.php,Contact,301,94722,https://facebook.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-04-20,19:01:05,196.50.54.254,Botswana,GET,/index.html,Homepage,200,69081,https://google.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-10-01,04:30:20,41.189.82.20,Zimbabwe,GET,/images/events.jpg,Event Image,404,43844,https://google.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-01-05,22:49:58,128.1.56.252,United States,GET,/index.html,Homepage,301,10348,-,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-09-08,05:39:15,41.10.151.135,South Africa,GET,/events.php,Events,200,5682,https://bing.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-11-08,07:25:01,128.1.218.59,United States,GET,/index.html,Homepage,200,18651,https://google.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-05-19,20:23:48,203.12.137.47,Australia,GET,/scheduledemo.php,Schedule Demo,200,15432,https://linkedin.com,curl/7.88.1
+2025-06-27,07:14:56,41.10.197.244,South Africa,GET,/jobs.php,Jobs Placed,200,17880,-,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-02-10,06:40:34,41.189.247.224,Zimbabwe,POST,/index.html,Homepage,304,0,https://facebook.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-12-01,23:47:20,128.1.66.247,United States,GET,/pricing.php,Pricing,304,0,https://linkedin.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-01-25,14:20:05,41.10.160.6,South Africa,POST,/ai-assistant.php,AI Virtual Assistant,500,95378,https://facebook.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-09-18,03:24:06,91.198.48.221,Germany,GET,/ai-assistant.php,AI Virtual Assistant,404,45830,https://linkedin.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-11-22,20:21:16,157.20.27.5,India,GET,/ai-assistant.php,AI Virtual Assistant,301,62022,https://linkedin.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-01-30,01:47:40,155.55.164.123,United Kingdom,GET,/scheduledemo.php,Schedule Demo,200,66956,https://google.com,Googlebot/2.1
+2025-09-07,20:09:07,41.189.120.40,Zimbabwe,POST,/events.php,Events,404,12048,https://linkedin.com,curl/7.88.1
+2025-05-03,17:54:25,196.50.254.9,Botswana,POST,/index.html,Homepage,200,73536,https://facebook.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-11-17,18:01:39,196.50.155.105,Botswana,POST,/ai-assistant.php,AI Virtual Assistant,304,0,https://bing.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-11-14,03:09:29,41.10.232.169,South Africa,POST,/prototype.php,Prototype,500,62526,https://bing.com,curl/7.88.1
+2025-02-14,06:46:29,196.50.113.1,Botswana,GET,/scheduledemo.php,Schedule Demo,301,68929,https://bing.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-01-18,18:40:58,203.12.252.71,Australia,POST,/contact.php,Contact,200,33842,https://facebook.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-03-14,20:01:52,196.50.201.110,Botswana,GET,/events.php,Events,304,0,-,curl/7.88.1
+2025-01-19,01:24:53,203.12.63.230,Australia,POST,/events.php,Events,301,18159,https://linkedin.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-07-25,23:21:14,155.55.221.247,United Kingdom,GET,/pricing.php,Pricing,500,23272,https://google.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-05-31,10:52:54,128.1.164.196,United States,POST,/scheduledemo.php,Schedule Demo,200,36372,https://linkedin.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-04-25,05:53:46,197.248.68.70,Kenya,POST,/scheduledemo.php,Schedule Demo,200,92458,https://facebook.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-10-04,11:08:59,155.55.111.102,United Kingdom,GET,/products.html,Products,304,0,https://google.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-07-15,16:37:38,105.112.165.59,Nigeria,POST,/jobs.php,Jobs Placed,404,76901,https://facebook.com,curl/7.88.1
+2025-09-19,20:24:17,155.55.146.216,United Kingdom,POST,/jobs.php,Jobs Placed,200,3824,https://linkedin.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-01-21,14:36:05,128.1.102.136,United States,GET,/jobs.php,Jobs Placed,200,90085,https://bing.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-11-22,23:36:20,196.50.151.104,Botswana,GET,/jobs.php,Jobs Placed,304,0,https://linkedin.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-08-28,06:33:01,91.198.114.199,Germany,GET,/products.html,Products,200,50526,https://linkedin.com,curl/7.88.1
+2025-11-03,01:43:54,24.48.160.27,Canada,GET,/index.html,Homepage,200,81850,https://linkedin.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-12-20,23:40:07,128.1.188.100,United States,GET,/jobs.php,Jobs Placed,200,59339,https://google.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-03-14,14:44:52,24.48.61.193,Canada,GET,/index.html,Homepage,301,35146,https://google.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-08-15,19:08:40,91.198.2.169,Germany,GET,/events.php,Events,200,20658,https://bing.com,Googlebot/2.1
+2025-01-20,18:00:25,157.20.154.251,India,POST,/jobs.php,Jobs Placed,304,0,-,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-07-24,01:02:13,41.10.94.34,South Africa,GET,/jobs.php,Jobs Placed,304,0,https://facebook.com,Googlebot/2.1
+2025-06-06,16:07:10,196.50.113.109,Botswana,GET,/ai-assistant.php,AI Virtual Assistant,304,0,https://bing.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-10-20,07:15:34,128.1.243.4,United States,GET,/index.html,Homepage,404,32014,https://facebook.com,Googlebot/2.1
+2025-04-05,16:38:01,24.48.164.195,Canada,GET,/pricing.php,Pricing,304,0,https://bing.com,Googlebot/2.1
+2025-10-09,03:56:30,41.10.191.228,South Africa,GET,/events.php,Events,200,42496,https://facebook.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-02-07,06:22:43,196.50.3.33,Botswana,GET,/products.html,Products,304,0,-,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-07-28,20:13:57,157.20.222.36,India,GET,/jobs.php,Jobs Placed,200,60703,https://bing.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-02-03,23:45:14,196.50.91.128,Botswana,POST,/images/events.jpg,Event Image,200,34413,https://linkedin.com,curl/7.88.1
+2025-06-25,04:47:45,128.1.221.161,United States,GET,/index.html,Homepage,301,1285,https://facebook.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-10-21,14:03:48,155.55.23.37,United Kingdom,POST,/scheduledemo.php,Schedule Demo,200,38501,https://bing.com,Googlebot/2.1
+2025-02-03,14:17:13,41.10.224.195,South Africa,GET,/scheduledemo.php,Schedule Demo,404,21001,https://facebook.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-02-22,23:10:02,155.55.151.73,United Kingdom,GET,/products.html,Products,200,73063,https://facebook.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-02-17,20:38:05,196.50.201.43,Botswana,GET,/products.html,Products,200,54599,https://facebook.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-03-04,12:12:12,41.10.129.99,South Africa,POST,/index.html,Homepage,200,98952,https://facebook.com,curl/7.88.1
+2025-09-08,08:48:07,105.112.148.34,Nigeria,GET,/products.html,Products,500,64369,https://bing.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-02-19,19:03:06,128.1.120.51,United States,GET,/products.html,Products,200,42164,https://linkedin.com,curl/7.88.1
+2025-05-08,12:24:26,128.1.156.78,United States,GET,/prototype.php,Prototype,304,0,https://linkedin.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-01-02,21:02:11,41.10.113.223,South Africa,GET,/products.html,Products,200,89585,https://bing.com,curl/7.88.1
+2025-06-29,18:03:34,197.248.156.249,Kenya,GET,/images/events.jpg,Event Image,500,11256,https://bing.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-12-13,03:29:25,105.112.134.39,Nigeria,GET,/ai-assistant.php,AI Virtual Assistant,301,83300,-,Googlebot/2.1
+2025-08-13,19:44:47,41.189.108.18,Zimbabwe,POST,/images/events.jpg,Event Image,301,62391,https://google.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-06-02,10:20:59,41.10.148.68,South Africa,POST,/events.php,Events,200,52519,https://bing.com,Googlebot/2.1
+2025-01-05,02:43:17,128.1.84.71,United States,GET,/events.php,Events,500,74674,https://google.com,curl/7.88.1
+2025-05-20,08:13:00,196.50.249.118,Botswana,GET,/index.html,Homepage,200,6122,https://google.com,Googlebot/2.1
+2025-12-19,12:37:13,157.20.198.240,India,GET,/pricing.php,Pricing,200,85515,https://bing.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-10-01,07:17:50,24.48.140.134,Canada,POST,/prototype.php,Prototype,200,49881,https://linkedin.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-08-17,05:33:49,128.1.39.128,United States,GET,/scheduledemo.php,Schedule Demo,301,53706,https://bing.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-07-09,01:52:43,157.20.3.71,India,GET,/events.php,Events,200,67953,https://bing.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-02-28,08:20:31,41.10.185.60,South Africa,POST,/ai-assistant.php,AI Virtual Assistant,304,0,-,curl/7.88.1
+2025-09-20,05:35:39,197.248.107.82,Kenya,POST,/ai-assistant.php,AI Virtual Assistant,200,32450,-,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-08-11,17:16:54,105.112.68.20,Nigeria,GET,/pricing.php,Pricing,200,22314,https://bing.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-07-20,15:26:24,24.48.9.145,Canada,GET,/about.html,About,404,80010,https://linkedin.com,curl/7.88.1
+2025-03-08,05:47:51,41.10.210.73,South Africa,GET,/jobs.php,Jobs Placed,500,86973,https://facebook.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-03-07,03:16:46,155.55.175.232,United Kingdom,GET,/prototype.php,Prototype,200,50084,https://linkedin.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-02-12,03:56:48,196.50.214.76,Botswana,GET,/prototype.php,Prototype,404,81088,https://facebook.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-12-07,21:14:51,157.20.60.47,India,GET,/events.php,Events,500,71197,-,curl/7.88.1
+2025-07-22,17:48:17,41.189.22.219,Zimbabwe,POST,/products.html,Products,304,0,https://bing.com,Googlebot/2.1
+2025-11-09,11:36:41,155.55.50.217,United Kingdom,POST,/index.html,Homepage,200,11498,https://bing.com,Googlebot/2.1
+2025-12-07,12:03:15,105.112.131.96,Nigeria,GET,/index.html,Homepage,500,69002,-,Googlebot/2.1
+2025-01-03,19:03:12,41.189.105.161,Zimbabwe,GET,/scheduledemo.php,Schedule Demo,200,56358,https://facebook.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-04-12,11:31:10,91.198.216.187,Germany,POST,/prototype.php,Prototype,200,54674,https://facebook.com,Googlebot/2.1
+2025-07-07,08:55:31,196.50.247.129,Botswana,POST,/blog.html,Blog,304,0,https://linkedin.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-11-29,01:10:03,91.198.60.117,Germany,GET,/events.php,Events,200,28621,https://facebook.com,curl/7.88.1
+2025-11-02,06:48:25,41.189.26.82,Zimbabwe,GET,/scheduledemo.php,Schedule Demo,200,19560,https://linkedin.com,Googlebot/2.1
+2025-06-19,02:00:42,196.50.134.113,Botswana,POST,/scheduledemo.php,Schedule Demo,200,95472,https://linkedin.com,curl/7.88.1
+2025-08-27,10:34:26,128.1.146.29,United States,GET,/about.html,About,404,58048,-,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-11-27,07:51:53,128.1.146.99,United States,POST,/index.html,Homepage,301,68120,https://google.com,Googlebot/2.1
+2025-03-07,19:41:42,128.1.184.122,United States,GET,/ai-assistant.php,AI Virtual Assistant,200,36679,https://linkedin.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-09-18,01:42:09,41.189.102.7,Zimbabwe,GET,/jobs.php,Jobs Placed,200,72548,https://bing.com,Googlebot/2.1
+2025-12-22,08:30:06,105.112.177.141,Nigeria,GET,/products.html,Products,404,53459,https://facebook.com,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120
+2025-04-12,09:41:54,196.50.54.37,Botswana,GET,/images/events.jpg,Event Image,200,67789,https://bing.com,Googlebot/2.1
+2025-11-12,19:04:57,157.20.128.226,India,POST,/about.html,About,404,101433,https://google.com,Mozilla/5.0 (Linux; Android 13) AppleWebKit/537
+2025-10-29,05:06:17,197.248.235.14,Kenya,GET,/events.php,Events,200,50669,https://google.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
+2025-11-07,18:02:41,41.10.180.4,South Africa,GET,/ai-assistant.php,AI Virtual Assistant,200,38167,-,curl/7.88.1
+2025-09-19,15:19:10,155.55.175.38,United Kingdom,GET,/images/events.jpg,Event Image,404,41651,https://bing.com,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605
